@@ -7,3 +7,14 @@ With Relume's advanced features, I illuminate concepts, breathing life into ever
 But the true magic lies in the integration of DALL·E 2, where imagination meets technology. Leveraging AI-generated visuals, I infuse my creations with a touch of the extraordinary, exploring uncharted territories of creativity.
 
 My portfolio isn't just a showcase of work; it's a testament to innovation, where the amalgamation of these tools fosters groundbreaking designs that captivate, inspire, and transcend expectations."
+
+
+## 🚀 Tools
+
+<p align="left">
+    <a href="https://www.relume.io/" target="_blank"> <img src="https://raw.githubusercontent.com/zeel2patel/Tesla/main/relume.png"/> </a>
+    <a href="https://webflow.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/sublime-text.png"/> </a>
+    <a href="https://www.anaconda.com/" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> </a>
+    <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/> </a>
+    <a href="https://www.linux.org/pages/download/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png"/> </a>
+    <a href="https://www.kali.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kali-linux.png"/> </a>
