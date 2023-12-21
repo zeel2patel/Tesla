@@ -15,8 +15,5 @@ My portfolio isn't just a showcase of work; it's a testament to innovation, wher
     <a href="https://www.relume.io/" target="_blank"> <img src="https://raw.githubusercontent.com/zeel2patel/Tesla/main/relume.png"/> </a>
  <p align="left">
     <a href="https://webflow.com/" target="_blank"> <img src="https://raw.githubusercontent.com/zeel2patel/Tesla/main/icons8-webflow-96.png"/></a>
-     
-    <a href="https://www.anaconda.com/" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> </a>
-    <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/> </a>
-    <a href="https://www.linux.org/pages/download/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png"/> </a>
-    <a href="https://www.kali.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kali-linux.png"/> </a>
+<p align="left">
+    <a href="https://openai.com/dall-e-2" target="_blank"> <img src="https://raw.githubusercontent.com/zeel2patel/Tesla/main/dalle2.png"/></a>   
